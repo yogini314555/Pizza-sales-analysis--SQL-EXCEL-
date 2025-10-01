@@ -30,7 +30,7 @@ pizza_category	Category (Classic, Supreme, Veggie, Chicken, etc.)
 pizza_size	Size (S, M, L, XL, XXL)
 quantity	Number of pizzas ordered
 total_price	Total price of the order
-Data: <a href "https://github.com/yogini314555/Pizza-sales-analysis--SQL-EXCEL-/blob/main/Copy%20of%20pizza_sales_excel_fileproject(2).xlsx"</a>
+Data:  https://github.com/yogini314555/Pizza-sales-analysis--SQL-EXCEL-/blob/main/Copy%20of%20pizza_sales_excel_fileproject(2).xlsx
 
 🔍 Analysis Performed
 Using SQL
@@ -110,9 +110,9 @@ git clone https://github.com/your-username/pizza-sales-analysis.git
 
 Open:
 
-sql/queries.sql → SQL queries for analysis
+https://github.com/yogini314555/Pizza-sales-analysis--SQL-EXCEL-/blob/main/pizzasalees.sql → SQL queries for analysis
 
-<a href "https://github.com/yogini314555/Pizza-sales-analysis--SQL-EXCEL-/blob/main/Copy%20of%20pizza_sales_excel_fileproject(2).xlsx"</a> → Excel dashboards, pivot tables, charts
+https://github.com/yogini314555/Pizza-sales-analysis--SQL-EXCEL-/blob/main/Copy%20of%20pizza_sales_excel_fileproject(2).xlsx→ Excel dashboards, pivot tables, charts
 
 data/pizza_sales.csv → Dataset
 
